@@ -1,6 +1,7 @@
 # myodiff
 
 Analysis and making of figures for C2C12 myodiff RNA-seq paper
+
 <img align="center" src="https://i.imgur.com/RqxvSJf.png">
 
 ## Contacts

@@ -1,0 +1,16 @@
+cond_col	cond1	cond2
+Condition	day0_Control	day2_HS
+Condition	day0_Control	day2_AD
+Condition	day0_Control	day2_HS_AD
+Condition	day0_Control	day7_HS
+Condition	day0_Control	day7_AD
+Condition	day0_Control	day7_HS_AD
+Condition	day2_HS	day7_HS
+Condition	day2_AD	day7_AD
+Condition	day2_HS_AD	day7_HS_AD
+Condition	day2_HS	day2_AD
+Condition	day2_HS	day2_HS_AD
+Condition	day2_AD	day2_HS_AD
+Condition	day7_HS	day7_AD
+Condition	day7_HS	day7_HS_AD
+Condition	day7_AD	day7_HS_AD

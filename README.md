@@ -1,6 +1,7 @@
 # myodiff
 
 Analysis and making of figures for C2C12 myodiff RNA-seq paper
+<img align="center" src="https://i.imgur.com/RqxvSJf.png">
 
 ## Contacts
 
@@ -8,7 +9,7 @@ Analysis and making of figures for C2C12 myodiff RNA-seq paper
 
 ## Contents 
 
-The repository contains processed data from the GSE108503 RNA-Seq dataset (14 samples, 7 conditions).
+The repository contains processed data from the [GSE108503](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE108503) RNA-Seq dataset (14 samples, 7 conditions).
 
 It also contains all the code used in the downstream analysis (differential expression, pathway analysis). 
 

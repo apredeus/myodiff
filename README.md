@@ -1,12 +1,24 @@
-# myodiff
+# Supplementary information for C2C12 myodifferentiation RNA-seq study
 
-Analysis and making of figures for C2C12 myodiff RNA-seq paper
+Analysis and scripts used in making of the manuscript figures
 
 <img align="center" src="https://i.imgur.com/RqxvSJf.png">
 
 ## Contacts
 
 [Alexander Predeus](https://www.researchgate.net/profile/Alexander_Predeus), 2016-2018, predeus at gmail dot com 
+
+## Publications
+
+This work has been reported at Frontiers of Cardiovascular Biology conference (Vienna, April 20-22nd, 2018): 
+
+*A. Predeus; OA. Ivanova; NV. Khromova; AM. Kiselev; DE. Polev; NA. Smolina; AA. Kostareva; RI. Dmitrieva.* [Pathway analysis of RNA-sequencing of various stages of myodifferentiaion identifies conditions favoring type I and type II fibers, and highlights increased efficiency of combined differentiation.](https://academic.oup.com/cardiovascres/article/114/suppl_1/S16/4981026)
+
+Full manuscript is currently in preparation. 
+
+## Funding 
+
+This work has been funded by the Russian Science Foundation, grant # 16-15-10178.
 
 ## Contents 
 

@@ -12,9 +12,7 @@ Analysis and scripts used in making of the manuscript figures
 
 This work has been reported at **Frontiers of Cardiovascular Biology** conference (Vienna, April 20-22nd, 2018). 
 
-*A. Predeus; OA. Ivanova; NV. Khromova; AM. Kiselev; DE. Polev; NA. Smolina; AA. Kostareva; RI. Dmitrieva:*
- 
-[Pathway analysis of RNA-sequencing of various stages of myodifferentiaion identifies conditions favoring type I and type II fibers, and highlights increased efficiency of combined differentiation.](https://academic.oup.com/cardiovascres/article/114/suppl_1/S16/4981026)
+*A. Predeus; OA. Ivanova; NV. Khromova; AM. Kiselev; DE. Polev; NA. Smolina; AA. Kostareva; RI. Dmitrieva,* [Pathway analysis of RNA-sequencing of various stages of myodifferentiaion identifies conditions favoring type I and type II fibers, and highlights increased efficiency of combined differentiation.](https://academic.oup.com/cardiovascres/article/114/suppl_1/S16/4981026)
 
 Full manuscript is currently in preparation. 
 
